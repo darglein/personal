@@ -24,7 +24,8 @@ This includes second-author-publications and bachelor/master thesis supervised b
 
  * Bachelor Thesis by Ralph Gelnar: Optimizing Feature Detection and Keypoint Distribution for Realtime SLAM [pdf](thesis/BachelorThesis_Features.pdf)
  * Master Thesis by Peter Eichinger: Vulkan Memory-Management and Defragmentation for Open-World Games [pdf](thesis/MasterThesis_VulkanMemory.pdf)
-
+ * Paper by Stefan Huber: Hybrid plant-wide Simulation and Modelling using Reference nets and Java [Link](https://www.sciencedirect.com/science/article/pii/B9780444634283501478)
+ 
 ## Contact
 
 Github: https://github.com/darglein
