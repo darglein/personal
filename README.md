@@ -18,7 +18,7 @@ My name is Darius Rückert, I am 26 years old, and living in the beautiful city 
  * [2019] 3D reconstruction of a roman vessel for the "Professorship of Ancient History". [Homepage](https://www.egea-ev.de/), [Homepage2](https://www.geschichte.phil.fau.de/department-geschichte/lehrstuehle-und-personen/professur-fuer-alte-geschichte/)
  * [2019] An Efficient Solution to Structured Optimization Problems using Recursive Matrices. [Paper](paper/RecursiveMatrices.pdf) [Slides](paper/RecursiveMatrices_slides.pptx)
  * [2018] MiniBoW: A single file bag-of-word library for ORB feature-matching. [Source](https://github.com/darglein/DBoW2)
- * [2018] Master Thesis: Interactive Multi-View Stereo Reconstruction [pdf](thesis/Interactive Multi-View Stereo Reconstruction.pdf)
+ * [2018] Master Thesis: Interactive Multi-View Stereo Reconstruction [pdf](thesis/InteractiveMulti-ViewStereoReconstruction.pdf)
  * [2017] Open CUDA SIFT. An open source GPU implemenation of SIFT feature detection and matching. [Source](https://github.com/darglein/ocs)
  * [2016] Redie: A challenging singleplayer 3D top down shooter with custom build engine. [Steam Store](https://store.steampowered.com/app/536990/Redie/)
 
