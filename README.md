@@ -26,9 +26,9 @@ My name is Darius Rückert, I am 26 years old, and living in the beautiful city 
 
 This includes second-author-publications and bachelor/master thesis supervised by me.
 
- * Master Thesis by Simon Mederer: Triangulation and Simplification of Incomplete Height Maps with Restricted Quad Trees [pdf](thesis/Triangulation and Simplification of Incomplete Height Maps with Restricted Quad Trees.pdf)
- * Bachelor Thesis by Ralph Gelnar: Optimizing Feature Detection and Keypoint Distribution for Realtime SLAM [pdf](thesis/Optimizing Feature Detection and Keypoint Distribution for Realtime SLAM.pdf)
- * Master Thesis by Peter Eichinger: Vulkan Memory-Management and Defragmentation for Open-World Games [pdf](thesis/Vulkan Memory-Management and Defragmentation for Open-World Games.pdf)
+ * Master Thesis by Simon Mederer: Triangulation and Simplification of Incomplete Height Maps with Restricted Quad Trees [pdf](thesis/TriangulationandSimplificationofIncompleteHeightMapswithRestrictedQuadTrees.pdf)
+ * Bachelor Thesis by Ralph Gelnar: Optimizing Feature Detection and Keypoint Distribution for Realtime SLAM [pdf](thesis/OptimizingFeatureDetectionandKeypointDistributionforRealtimeSLAM.pdf)
+ * Master Thesis by Peter Eichinger: Vulkan Memory-Management and Defragmentation for Open-World Games [pdf](thesis/VulkanMemory-ManagementandDefragmentationforOpen-WorldGames.pdf)
  * Paper with Stefan Huber: Hybrid plant-wide Simulation and Modelling using Reference nets and Java [Link](https://www.sciencedirect.com/science/article/pii/B9780444634283501478)
  
 ## Contact
