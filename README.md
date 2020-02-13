@@ -18,7 +18,7 @@ My name is Darius Rückert, I am 26 years old, and living in the beautiful city 
  * [2019] 3D reconstruction of a roman vessel for the "Professorship of Ancient History". [Homepage](https://www.egea-ev.de/), [Homepage2](https://www.geschichte.phil.fau.de/department-geschichte/lehrstuehle-und-personen/professur-fuer-alte-geschichte/)
  * [2019] An Efficient Solution to Structured Optimization Problems using Recursive Matrices. [Paper](paper/RecursiveMatrices.pdf) [Slides](paper/RecursiveMatrices_slides.pptx)
  * [2018] MiniBoW: A single file bag-of-word library for ORB feature-matching. [Source](https://github.com/darglein/DBoW2)
- * [2018] Master Thesis: Interactive Multi-View Stereo Reconstruction [pdf](thesis/[MA Darius Rueckert] Interactive Multi-View Stereo Reconstruction.pdf)
+ * [2018] Master Thesis: Interactive Multi-View Stereo Reconstruction [pdf](thesis/Interactive Multi-View Stereo Reconstruction.pdf)
  * [2017] Open CUDA SIFT. An open source GPU implemenation of SIFT feature detection and matching. [Source](https://github.com/darglein/ocs)
  * [2016] Redie: A challenging singleplayer 3D top down shooter with custom build engine. [Steam Store](https://store.steampowered.com/app/536990/Redie/)
 
@@ -26,9 +26,9 @@ My name is Darius Rückert, I am 26 years old, and living in the beautiful city 
 
 This includes second-author-publications and bachelor/master thesis supervised by me.
 
- * Master Thesis by Simon Mederer: Triangulation and Simplification of Incomplete Height Maps with Restricted Quad Trees [pdf](thesis/[MA Simon Mederer] Triangulation and Simplification of Incomplete Height Maps with Restricted Quad Trees.pdf)
- * Bachelor Thesis by Ralph Gelnar: Optimizing Feature Detection and Keypoint Distribution for Realtime SLAM [pdf](thesis/[BA Ralph Gelnar] Optimizing Feature Detection and Keypoint Distribution for Realtime SLAM.pdf)
- * Master Thesis by Peter Eichinger: Vulkan Memory-Management and Defragmentation for Open-World Games [pdf](thesis/[MA Peter Eichinger] Vulkan Memory-Management and Defragmentation for Open-World Games.pdf)
+ * Master Thesis by Simon Mederer: Triangulation and Simplification of Incomplete Height Maps with Restricted Quad Trees [pdf](thesis/Triangulation and Simplification of Incomplete Height Maps with Restricted Quad Trees.pdf)
+ * Bachelor Thesis by Ralph Gelnar: Optimizing Feature Detection and Keypoint Distribution for Realtime SLAM [pdf](thesis/Optimizing Feature Detection and Keypoint Distribution for Realtime SLAM.pdf)
+ * Master Thesis by Peter Eichinger: Vulkan Memory-Management and Defragmentation for Open-World Games [pdf](thesis/Vulkan Memory-Management and Defragmentation for Open-World Games.pdf)
  * Paper with Stefan Huber: Hybrid plant-wide Simulation and Modelling using Reference nets and Java [Link](https://www.sciencedirect.com/science/article/pii/B9780444634283501478)
  
 ## Contact
