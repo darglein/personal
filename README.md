@@ -1,6 +1,6 @@
 <img src="images/me.jpg" width="100"/> 
 
-My name is Darius Rückert, I am 26 years old, and living in the beautiful city Erlangen (Germany). Since March 2018 I am full-time PhD student at the Visual Computing Lab of the Friedrich Alexander University Erlangen-Nürnberg (FAU). My current ressearch topics are real-time 3D reconstruction, SLAM, non-linear optimization, and deep learning in rendering.
+My name is Darius Rückert, I am 26 years old, and living in the beautiful city Erlangen (Germany). Since March 2018 I am full-time PhD student at the Visual Computing Lab of the Friedrich Alexander University Erlangen-Nürnberg (FAU). My current research topics are real-time 3D reconstruction, SLAM, non-linear optimization, and deep learning in rendering.
 
 ## Active Projects
 
