@@ -4,15 +4,16 @@ My name is Darius Rückert, I am 26 years old, and living in the beautiful city 
 
 ## Active Projects
 
- * Point-based neural rendering on laser-scanned indoor datasets
- * Implementing and integrating a code generator for templated cost-functors into ceres. [Gerrit](https://ceres-solver-review.googlesource.com/q/status:open), [Ceres](http://ceres-solver.org/) 
- * Snake-SLAM. A sparse indirect SLAM system for real-time camera localization.
+ * Point-based neural rendering and differentiable rendering
  * Lib Saiga: A lightweight utility and rendering framework [source](https://github.com/darglein/saiga)
- * 3D reconstruction of the "Kemenate" and interior objects in "Schloss Thurnau"
- [Talk](https://www.uni-bayreuth.de/de/universitaet/presse/pressemitteilungen/2020/008-Stadtgespraech_3D-Rekonstruktion-histor_-Kemenate-Schloss-Thurnau_Muehlnikel/index.html) [IFLG](https://www.iflg-thurnau.de/)
+
  
 ## Finished Projects
-
+ * [2020] SuBloNet: Sparse Super Block Networks for Large Scale Volumetric Fusion (In Review)
+ * [2020] A derivative code generator for templated cost functions to use in Ceres [Source](https://github.com/darglein/Autodiff-Codegen)
+ * [2020] Snake-SLAM: Efficient Global Visual Inertial SLAM using Decoupled Nonlinear Optimization [Paper Preprint](paper/SnakeSLAM_preprint.pdf)
+ * [2020] 3D reconstruction of the "Kemenate" and interior objects in "Schloss Thurnau"
+ [Talk](https://www.uni-bayreuth.de/de/universitaet/presse/pressemitteilungen/2020/008-Stadtgespraech_3D-Rekonstruktion-histor_-Kemenate-Schloss-Thurnau_Muehlnikel/index.html) [IFLG](https://www.iflg-thurnau.de/)
  * [2019] Second place at the SLAM-for-AR Competition with a Snake-SLAM prototype (inofficial first place) [Homepage](http://www.zjucvg.net/eval-vislam/ismar19-slam-competition/)
  * [2019] FragmentFusion: A light-weight SLAM pipeline for dense reconstruction. [Paper](paper/FragmentFusion.pdf) [Video](https://www.youtube.com/watch?v=DK7tvu2nw24)
  * [2019] 3D reconstruction of a roman vessel for the "Professorship of Ancient History". [Homepage](https://www.egea-ev.de/), [Homepage2](https://www.geschichte.phil.fau.de/department-geschichte/lehrstuehle-und-personen/professur-fuer-alte-geschichte/)
