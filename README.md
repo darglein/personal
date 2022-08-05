@@ -1,15 +1,22 @@
 <img src="images/me.jpg" width="100"/> 
 
-My name is Darius Rückert, I am 28 years old, and living in the beautiful city Erlangen (Germany). Since March 2018 I am full-time PhD student at the Visual Computing Lab of the Friedrich Alexander University Erlangen-Nürnberg (FAU). My current research topics are 3D reconstruction, SLAM, non-linear optimization, neural rendering, and differentiable rendering.
+My name is Darius Rückert, I am 28 years old, and living in the beautiful city Erlangen (Germany). 
+Since March 2018 I am full-time PhD student at the Visual Computing Lab of the 
+Friedrich Alexander University Erlangen-Nürnberg (FAU). My current research 
+topics are 3D reconstruction, optimization, neural rendering, 
+and differentiable rendering.
 
 ## Active Projects
 
  * Point-based neural rendering and differentiable rendering
+ * Inverse redering for computed tomography
  * Lib Saiga: A lightweight utility and rendering framework [source](https://github.com/darglein/saiga)
 
  
 ## Finished Projects
- * [2020] SuBloNet: Sparse Super Block Networks for Large Scale Volumetric Fusion (In Review)
+ * [2022] NeAT: Neural Adaptive Tomography [Source](https://github.com/darglein/NeAT) [Paper](https://dl.acm.org/doi/abs/10.1145/3528223.3530121)
+ * [2022] ADOP: Approximate Differentiable One-Pixel Point Rendering [Source](https://github.com/darglein/ADOP) [Paper](https://dl.acm.org/doi/abs/10.1145/3528223.3530122)
+ * [2021] SuBloNet: Sparse Super Block Networks for Large Scale Volumetric Fusion [Paper](https://vmv2021.inf.tu-dresden.de/paper-sublonet-sparse-super-block-networks-for-large-scale-volumetric-fusion/)
  * [2020] A derivative code generator for templated cost functions to use in Ceres [Source](https://github.com/darglein/Autodiff-Codegen)
  * [2020] Snake-SLAM: Efficient Global Visual Inertial SLAM using Decoupled Nonlinear Optimization [Paper](https://ieeexplore.ieee.org/abstract/document/9476760)
  * [2020] 3D reconstruction of the "Kemenate" and interior objects in "Schloss Thurnau"
